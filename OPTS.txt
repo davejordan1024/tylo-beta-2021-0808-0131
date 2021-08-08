@@ -1,0 +1,4 @@
+appx	6
+appy	46
+lastgame	bot	21-08-08 00:40:24
+lastsort	by status by name
